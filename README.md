@@ -76,3 +76,5 @@ First: 5/100
 Second: 0/100
 **quit**
 ```
+
+**NB:** There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it.
